@@ -25,8 +25,4 @@ pratica/issues/            texto das issues da prática
 
 ## Integrantes e issues
 
-Cada integrante acrescenta uma linha no fim da tabela, no próprio pull request.
-
-| Integrante | Issue | Função |
-|---|---|---|
-| Professor (exemplo) | — | `media_ponderada` |
+ Gustavo | #2 | nota_para_conceito |
