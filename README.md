@@ -30,3 +30,4 @@ Cada integrante acrescenta uma linha no fim da tabela, no próprio pull request.
 | Integrante | Issue | Função |
 |---|---|---|
 | Professor (exemplo) | — | `media_ponderada` |
+| Vitor | #1 | situacao |
