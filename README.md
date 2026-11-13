@@ -25,5 +25,7 @@ pratica/issues/            texto das issues da prática
 
 ## Integrantes e issues
 
- Gustavo | #2 | nota_para_conceito |
+| Professor (exemplo) | — | media_ponderada |
+| Gustavo | #2 | nota_para_conceito |
+| Vitor | #1 | situacao |
 | Davi | #3 | frequencia_ok |
