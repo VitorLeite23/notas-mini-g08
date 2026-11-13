@@ -26,3 +26,4 @@ pratica/issues/            texto das issues da prática
 ## Integrantes e issues
 
  Gustavo | #2 | nota_para_conceito |
+| Davi | #3 | frequencia_ok |
